@@ -65,7 +65,7 @@ a:hover {
   .topnav {
     position: relative;
     top: 50%;
-    left: 20%;              /* indents navbar so that top links are approximately center of screen*/
+    left: 10%;              /* indents navbar so that top links are approximately center of screen*/
     overflow: hidden;
     background-color: rgb(240,240,240)
   }
